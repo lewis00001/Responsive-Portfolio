@@ -1,0 +1,27 @@
+img {
+    width: 160px;
+    height: 160px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.quotes {
+    padding-bottom: 15px;
+}
+.quoteMarks {
+    font-size: large;
+    font-style: monospace;
+}
+.qName {
+    color: #888;
+    font-weight: bold;
+    font-size: small;
+    float: right;
+}
+
+#profilePic {
+    display: block;
+    float: left;
+    margin: 5px 15px 10px 0px;
+    object-fit: contain;
+}
+
